@@ -1,0 +1,6 @@
+name: LiteAFK
+version: 1.0
+main: yo.raidlite.liteafk.LiteAFK
+api-version: 1.16
+commands:
+  afk: {}
